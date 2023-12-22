@@ -1,0 +1,11 @@
+C:\Otros\Programacion\FenixBarberr\FenixBarberr\bin\Debug\FenixBarberr.exe.config
+C:\Otros\Programacion\FenixBarberr\FenixBarberr\bin\Debug\FenixBarberr.exe
+C:\Otros\Programacion\FenixBarberr\FenixBarberr\bin\Debug\FenixBarberr.pdb
+C:\Otros\Programacion\FenixBarberr\FenixBarberr\obj\Debug\FenixBarberr.csproj.AssemblyReference.cache
+C:\Otros\Programacion\FenixBarberr\FenixBarberr\obj\Debug\FenixBarberr.Properties.Resources.resources
+C:\Otros\Programacion\FenixBarberr\FenixBarberr\obj\Debug\FenixBarberr.csproj.GenerateResource.cache
+C:\Otros\Programacion\FenixBarberr\FenixBarberr\obj\Debug\FenixBarberr.csproj.CoreCompileInputs.cache
+C:\Otros\Programacion\FenixBarberr\FenixBarberr\obj\Debug\FenixBarberr.exe
+C:\Otros\Programacion\FenixBarberr\FenixBarberr\obj\Debug\FenixBarberr.pdb
+C:\Otros\Programacion\FenixBarberr\FenixBarberr\obj\Debug\FenixBarberr.Login.resources
+C:\Otros\Programacion\FenixBarberr\FenixBarberr\obj\Debug\FenixBarberr.Presentacion.Menu.resources
